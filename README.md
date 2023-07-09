@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @nerhZ
-- 👀 I’m interested in GAMING!!!!!!!!!
