@@ -6,7 +6,6 @@
 ### Hi there!👋
 - My name is James Lymbery
 - Recent First Class Computer Science Graduate from UWE
-- Currently looking for Junior/Graduate Software Development job opportunities, ideally full-stack
 - Year of work experience in industry - please visit my [LinkedIn](https://www.linkedin.com/in/jameslymbery/)!
 - Final year project - "LocalCloud" (locally hosted "cloud" storage solution) open source and available for viewing on GitHub [here](https://github.com/nerhZ/LocalCloud)
 ---
